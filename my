@@ -1,0 +1,13 @@
+git clone [URL]
+# My First Project
+
+Учебный проект для освоения Git и GitHub.
+
+## Структура
+
+- `index.html` — стартовая страница
+- `.gitignore` — исключения для Git
+
+## Запуск
+
+Откройте `index.html` в браузере.
